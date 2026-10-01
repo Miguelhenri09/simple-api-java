@@ -1,3 +1,4 @@
+name: Meu primeiro workflow
 on: push #Evento em que sera disparado o workflow
 
 jobs: #Onde criamos as Jobs
